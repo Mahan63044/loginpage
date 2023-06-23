@@ -17,6 +17,7 @@
     align-items: center;
     padding: 50px;
     box-shadow: 2px 2px 10px #333;
+    margin-right: 80px;
     
 }
 .block{
@@ -57,7 +58,7 @@
 .btn1{
     
     width:60% ;
-    padding: 8px;
+    padding: 4px;
     margin: 40px;
     background-color: green;
     color: white;
